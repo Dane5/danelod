@@ -1,0 +1,7 @@
+{
+	"sqluser":"MrDane",
+	"sqlpass":"Hel@Datab!S71TelCn",
+	"sqladdr":"stagemysql.mysql.database.azure.com:3306",
+	"sqldb":"abelstage",
+	"sqlcert":"/usr/local/LOD/DigiCertGlobalRootCA.crt.pem"
+}
